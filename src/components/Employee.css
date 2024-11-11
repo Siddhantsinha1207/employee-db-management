@@ -1,0 +1,16 @@
+.employees {
+  display: flex;
+}
+
+.add {
+  background-color: yellow;
+  color: black;
+  margin-top: 2rem;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.add:hover {
+  color: #444;
+}

@@ -1,0 +1,27 @@
+.list {
+  background-color: #ced4da;
+  border-radius: 4px;
+  display: flex;
+  padding: 0.4rem;
+  justify-content: space-between;
+  margin: 0.8rem 0;
+  cursor: pointer;
+}
+
+.list:active {
+  background-color: #868e96;
+  color: white;
+}
+
+button {
+  background: transparent;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: maroon;
+  font-weight: bolder;
+}
+
+button:hover {
+  color: red;
+}

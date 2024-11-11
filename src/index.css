@@ -1,0 +1,13 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Faculty Glyphic", sans-serif;
+  margin: 2rem;
+}

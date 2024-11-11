@@ -1,0 +1,19 @@
+.employee-info {
+  margin: 0;
+  width: calc(100% - 30vw);
+  border: 1px solid black;
+  height: 70vh;
+  overflow: scroll;
+}
+
+.emp-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  text-align: center;
+  margin: 0.6rem 0;
+}
